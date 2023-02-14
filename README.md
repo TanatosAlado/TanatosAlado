@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hola.. 👋
+
+## **Soy Cristian Alessandria**
+
+### ⚡ Desarrollador Full Stack ⚡
+
+#### Manejo las siguientes tecnologías:
+     - HTML
+     - CSS
+     - BootsTrap
+     - JavaScript 
+     - React
+     - MongoDB
+
+##### Te invito a que revises mis repos..
 
 <!--
 **TanatosAlado/TanatosAlado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
