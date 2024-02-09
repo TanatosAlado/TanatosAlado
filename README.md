@@ -21,6 +21,9 @@ Me encanta encarar nuevos desafíos.
 [![Node.js](https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
 </br>
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
+[![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white&labelColor=101010)](#)
+[![TFS](https://img.shields.io/badge/TFS-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=101010)](#)
+
 
 </br>
 
