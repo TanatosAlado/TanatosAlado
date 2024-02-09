@@ -16,16 +16,15 @@ Me encanta encarar nuevos desafíos.
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 </br>
+
 [![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 [![ReactJs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 [![Node.js](https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
 </br>
+
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 [![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logoColor=white&labelColor=6DB33F&logoWidth=20)](#)
 [![TFS](https://img.shields.io/badge/TFS-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=101010)](#)
-[![TFS](https://img.shields.io/badge/TFS-5C2D91?style=for-the-badge&logoColor=white&labelColor=101010)](#)
-
-
 
 </br>
 
